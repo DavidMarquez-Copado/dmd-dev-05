@@ -1692,6 +1692,10 @@
         <layout>DMD_CustomMetadataType__mdt-DMD_CustomMetadataType Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_2</layout>
+        <recordType>DMD_CustomObject_1__c.DMD_RecordType_2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_1</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1699,19 +1703,15 @@
         <recordType>DMD_CustomObject_1__c.DMD_RecordType_1</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_2</layout>
-        <recordType>DMD_CustomObject_1__c.DMD_RecordType_2</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
-        <recordType>DMD_CustomObject_30__c.FirstRecordType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
         <recordType>DMD_CustomObject_30__c.SecondRecordType</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
+        <recordType>DMD_CustomObject_30__c.FirstRecordType</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>DMD_CustomTabObject__c-DMD_CustomTabObject Layout</layout>
