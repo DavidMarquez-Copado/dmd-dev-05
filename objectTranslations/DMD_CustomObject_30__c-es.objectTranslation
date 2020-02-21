@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DMD_CustomObject_30</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DMD_CustomObject_30s</value>
+    </caseValues>
+    <fields>
+        <label><!-- MyPicklist --></label>
+        <name>MyPicklist__c</name>
+        <picklistValues>
+            <masterLabel>First value</masterLabel>
+            <translation><!-- First value --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Second value</masterLabel>
+            <translation><!-- Second value --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Third value</masterLabel>
+            <translation><!-- Third value --></translation>
+        </picklistValues>
+    </fields>
+    <gender>Feminine</gender>
+    <recordTypes>
+        <label><!-- FirstRecordType --></label>
+        <name>FirstRecordType</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- SecondRecordType --></label>
+        <name>SecondRecordType</name>
+    </recordTypes>
+</CustomObjectTranslation>
