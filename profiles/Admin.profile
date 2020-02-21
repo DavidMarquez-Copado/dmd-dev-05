@@ -970,6 +970,16 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>DMD_CustomObject_1__c.DMD_Text_1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>DMD_CustomObject_1__c.DMD_Text_2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>DMD_CustomObject_30__c.MyPicklist__c</field>
         <readable>false</readable>
@@ -1682,6 +1692,17 @@
         <layout>DMD_CustomMetadataType__mdt-DMD_CustomMetadataType Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_1</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_1</layout>
+        <recordType>DMD_CustomObject_1__c.DMD_RecordType_1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_2</layout>
+        <recordType>DMD_CustomObject_1__c.DMD_RecordType_2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>DMD_CustomObject_30__c-DMD_CustomObject_30 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1966,6 +1987,15 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>DMD_CustomObject_1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>DMD_CustomObject_30__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
@@ -2198,6 +2228,16 @@
         <apexPage>DMD_VFPage</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>DMD_CustomObject_1__c.DMD_RecordType_1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>DMD_CustomObject_1__c.DMD_RecordType_2</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>DMD_CustomObject_30__c.FirstRecordType</recordType>
@@ -2816,6 +2856,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageEntitlements</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageExchangeConfig</name>
     </userPermissions>
     <userPermissions>
@@ -2861,6 +2905,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManagePackageLicenses</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ManagePartners</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -2916,6 +2964,10 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ManageTranslation</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
         <name>ManageUnlistedGroups</name>
     </userPermissions>
     <userPermissions>
@@ -2953,6 +3005,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>Packaging2</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>Packaging2PromoteVersion</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
