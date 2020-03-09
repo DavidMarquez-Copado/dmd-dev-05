@@ -5,12 +5,5 @@
         <members>DMD_SomeClass_Test</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>DMD_StaticResource_1</members>
-        <members>DMD_StaticResource_2</members>
-        <members>DMD_StaticResource_3</members>
-        <members>DMD_StaticResource_4</members>
-        <name>StaticResource</name>
-    </types>
     <version>48.0</version>
 </Package>
