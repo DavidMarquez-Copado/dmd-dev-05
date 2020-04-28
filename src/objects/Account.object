@@ -300,6 +300,16 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>DMD_0013043__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_0013043</label>
+        <length>25</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>DandbCompanyId</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Lookup</type>
