@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_CustomObject_1__c.DMD_Text_1__c</members>
-        <members>DMD_CustomObject_1__c.DMD_Text_2__c</members>
-        <name>CustomField</name>
+        <members>DMD_ClassForPmd</members>
+        <members>IATSPayment__AURASetup</members>
+        <members>IATSPayment__HttpRESTConnection</members>
+        <members>IATSPayment__HttpRESTConnection1</members>
+        <members>IATSPayment__IATSPayments_batchProcessJournalLog</members>
+        <members>IATSPayment__IATSPayments_batchProcessJournalLog_test</members>
+        <members>IATSPayment__IATSPayments_bulkJournal</members>
+        <members>IATSPayment__IATSPayments_bulkJournal_test</members>
+        <members>IATSPayment__IATSPayments_evaluateRecurringPayments</members>
+        <members>IATSPayment__IATSPayments_faps</members>
+        <members>IATSPayment__IATSPayments_faps_Test</members>
+        <members>IATSPayment__fapsVaultSaleRequest</members>
+        <members>IATSPayment__fapsVaultSaleResponse</members>
+        <members>IATSPayment__iATSBatchProcessing</members>
+        <members>IATSPayment__iATSBatchProcessing_TEST</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext23</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext3a</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext4</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext5</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext6</members>
+        <members>IATSPayment__wwwIatspaymentsComNetgate_CL_ext7</members>
+        <name>ApexClass</name>
     </types>
-    <types>
-        <members>DMD_CustomObject_1__c</members>
-        <name>CustomObject</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_1</members>
-        <members>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_2</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_1__c.DMD_RecordType_1</members>
-        <members>DMD_CustomObject_1__c.DMD_RecordType_2</members>
-        <name>RecordType</name>
-    </types>
-    <version>47.0</version>
+    <version>49.0</version>
 </Package>
