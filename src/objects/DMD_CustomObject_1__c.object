@@ -173,6 +173,16 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>DMD_Text_3__c</fullName>
+        <externalId>false</externalId>
+        <label>DMD_Text_3</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <gender>Feminine</gender>
     <label>DMD_CustomObject_1</label>
     <nameField>
