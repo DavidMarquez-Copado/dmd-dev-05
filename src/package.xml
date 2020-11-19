@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_CustomObject_1__c.DMD_Text_1__c</members>
-        <members>DMD_CustomObject_1__c.DMD_Text_2__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_1__c</members>
+        <members>DMD_SharingModelObj_1__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_1</members>
-        <members>DMD_CustomObject_1__c-DMD_CustomObject_1 Layout_2</members>
-        <name>Layout</name>
-    </types>
-    <types>
-        <members>Admin</members>
-        <name>Profile</name>
-    </types>
-    <types>
-        <members>DMD_CustomObject_1__c.DMD_RecordType_1</members>
-        <members>DMD_CustomObject_1__c.DMD_RecordType_2</members>
-        <name>RecordType</name>
-    </types>
-    <version>47.0</version>
+    <version>50.0</version>
 </Package>
