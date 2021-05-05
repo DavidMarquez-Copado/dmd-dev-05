@@ -1,0 +1,2 @@
+<apex:page controller="DMDApexPageController" action="{!initMethod}">
+</apex:page>
