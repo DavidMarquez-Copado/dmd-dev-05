@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DMD_Apex_Component</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>DMD_Apex_Page</members>
-        <members>DMD_Apex_Page_Two</members>
-        <name>ApexPage</name>
+        <members>DMD_Class_One</members>
+        <members>DMD_Class_OneTest</members>
+        <name>ApexClass</name>
     </types>
     <version>51.0</version>
 </Package>
